@@ -1,0 +1,8 @@
+payment_id,Payment_Method
+1,"Google Pay"
+2,"Credit Card"
+3,"Debit Card"
+4,"Apple Pay"
+5,"Cash on Delivery"
+6,"PayPal"
+7,"Bank Transfer"
